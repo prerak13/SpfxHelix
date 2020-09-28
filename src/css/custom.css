@@ -1,0 +1,635 @@
+.borderColor{
+border: 2px solid #70ad47;
+background-color:#2e74b6;
+box-shadow: 0px 0px 15px #0a8cff;
+margin-top:60px;
+margin-left:auto;
+margin-right:auto;
+}
+.textColor{
+color:white;
+}
+.yellow
+{
+color:yellow!important;
+font-weight: 100;
+text-decoration: underline;
+}
+.textStyles
+{
+text-align:center;
+font-size:12px;
+font-weight:500;
+line-height:15px;
+}
+.funImageStyle
+{
+ margin:auto;
+font-size:9px;
+}
+.ImageText
+{
+margin-bottom:0px!important;
+text-align:center;
+}
+.imageSecHeight
+{
+height:306px;
+overflow:auto;
+}
+/* width */
+.imageSecHeight::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+.imageSecHeight::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+.imageSecHeight::-webkit-scrollbar-thumb {
+  background: #104461; 
+}
+
+/* Handle on hover */
+.imageSecHeight::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+.iconStyle
+{
+	margin-left:32%;
+	margin-bottom:5px;
+}
+.helixBox
+{
+	width:170px;
+	height:auto;
+	border: 2px solid white;
+	border-radius: 10px;
+	background-color:#87c765;
+	color: white;
+	line-height: 1px;
+	padding: 20px;
+	font-size:13px;
+	box-shadow: 5px 5px 10px #888888;
+}
+
+/* .position1
+{
+		position:relative;
+margin-top:auto;
+	left:17%;
+}
+.position2
+{
+		position:relative;
+margin-top:auto;
+	left:26%;
+}
+.position3
+{
+		position:relative;
+margin-top:auto;
+	left:35%;
+}
+.position4
+{
+		position:relative;
+margin-top:auto;
+	left:43%;
+}
+.position5
+{
+		position:relative;
+margin-top:auto;
+	left:52%;
+}
+.imageStyle
+{
+width:97%;
+} */
+@media only screen and (min-width: 1000px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:17%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:20%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:23%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:26%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:29%;
+	}
+	.imageStyle
+	{
+	width:90%;
+	margin:auto;
+	}
+	.helixBox
+	{
+		width:144px;
+		line-height: 0px;
+		padding: 14px;
+		font-size:11px;
+		
+	}
+}
+@media only screen and (min-width: 1100px) {
+
+	.helixBox
+	{
+		width:155px;
+	}
+}
+@media only screen and (min-width: 1150px) {
+
+	.helixBox
+	{
+		width:162px;
+	}
+}
+@media only screen and (min-width: 1200px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:17%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:20%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:23%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:26%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:29%;
+	}
+	.imageStyle
+	{
+	width:90%;
+	}
+	.helixBox
+{
+	width:165px;
+	line-height: 1px;
+	padding: 20px;
+		font-size:13px;
+}
+}
+
+@media only screen and (min-width: 1250px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:18%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:22%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:26%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:30%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:34%;
+	}
+	.imageStyle
+	{
+	width:90%;
+	}
+	.helixBox
+{
+	width:165px;
+}
+}
+@media only screen and (min-width: 1300px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:18%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:22%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:26%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:30%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:34%;
+	}
+	.imageStyle
+	{
+	width:93%;
+	}
+	.helixBox
+{
+	width:175px;
+}
+}
+@media only screen and (min-width: 1350px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:18%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:22.5%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:27%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:31.5%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:35.5%;
+	}
+	
+}
+@media only screen and (min-width: 1400px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:18%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:23%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:28%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:33%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:38%;
+	}
+
+}
+
+@media only screen and (min-width: 1450px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:18%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:24%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:30%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:35%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:40%;
+	}
+
+}
+
+@media only screen and (min-width: 1500px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:18%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:24%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:30%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:36%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:42%;
+	}
+
+}
+
+@media only screen and (min-width: 1600px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:19%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:25%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:31%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:38%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:45%;
+	}
+}
+
+@media only screen and (min-width: 1700px) {
+
+	.helixBox
+	{
+		width:185px;
+		font-size:15px;
+		line-height: 4px;
+	}
+	.iconStyle
+{
+	margin-left:34%;
+}
+}
+@media only screen and (min-width: 1800px) {
+
+	.helixBox
+	{
+		width:200px;
+	}
+	.iconStyle
+{
+	margin-left:35%;
+}
+}
+
+@media only screen and (min-width: 1900px) {
+	.helixBox
+	{
+		width:210px;
+	}
+	.iconStyle
+{
+	width:36%;
+}
+}
+
+@media only screen and (min-width: 2000px) {
+	.helixBox
+	{
+		width:220px;
+		font-size:17px;
+		line-height: 8px;
+	}
+	.iconStyle
+{
+	width:37%;
+}
+}
+@media only screen and (min-width: 2100px) {
+	.helixBox
+	{
+		width:230px;
+	}
+	.iconStyle
+{
+	width:38%;
+}
+}
+@media only screen and (min-width: 2200px) {
+	.helixBox
+	{
+		width:240px;
+		font-size:20px;
+		line-height: 10px;
+	}
+	.iconStyle
+{
+	width:39%;
+}
+}
+@media only screen and (min-width: 2300px) {
+	.helixBox
+	{
+		width:250px;
+	}
+	.iconStyle
+{
+	width:40%;
+}
+}
+@media only screen and (min-width: 2400px) {
+	.helixBox
+	{
+		width:260px;
+	}
+}
+
+@media only screen and (min-width: 2500px) {
+	.position1
+	{
+			position:relative;
+margin-top:auto;
+		left:19%;
+	}
+	.position2
+	{
+			position:relative;
+margin-top:auto;
+		left:26%;
+	}
+	.position3
+	{
+			position:relative;
+margin-top:auto;
+		left:33%;
+	}
+	.position4
+	{
+			position:relative;
+margin-top:auto;
+		left:40%;
+	}
+	.position5
+	{
+			position:relative;
+margin-top:auto;
+		left:47%;
+	}
+	.helixBox
+	{
+		font-size:22px;
+		line-height: 12px;
+	}
+}
+@media only screen and (min-width: 2650px) {
+	.helixBox
+	{
+		width:280px;
+	}
+}
+
+@media only screen and (min-width: 2800px) {
+	.helixBox
+	{
+		width:295px;
+		font-size:24px;
+		line-height: 14px;
+	}
+}
+@media only screen and (min-width: 2900px) {
+	.helixBox
+	{
+		width:305px;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+
+}
+@media only screen and (max-width: 414px) {
+
+}
+@media only screen and (max-width: 714px) {
+.imageSecHeight{max-width: 35%;}
+.textStyles{max-width: 65%;}
+}
+@media only screen and (max-width: 320px) {
+	.imageSecHeight{max-width: 40%;}
+	.textStyles{max-width: 60%;}
+	}
+
+	@media only screen and (min-width: 1000px) and (max-width: 1050px) {
+		.ipadProStyles{max-width: 50%;flex: 0 0 50%;}
+		}
+
+@media only screen and (min-width: 1200px) and (max-width: 1430px) {
+			.imageSecHeight{
+				flex: 0 0 40%;
+	max-width: 40%;
+}
+			}
+
+		

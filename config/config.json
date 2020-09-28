@@ -1,0 +1,27 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "helix-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/helix/HelixWebPart.js",
+          "manifest": "./src/webparts/helix/HelixWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+    "jquery": {
+      "path": "node_modules/jquery/dist/jquery.min.js",
+      "globalName": "jQuery"
+      },
+      "bootstrap": {
+      "path": "node_modules/bootstrap/dist/js/bootstrap.min.js",
+      "globalName": "bootstrap"
+      }
+  },
+  "localizedResources": {
+    "HelixWebPartStrings": "lib/webparts/helix/loc/{locale}.js"
+  }
+}
